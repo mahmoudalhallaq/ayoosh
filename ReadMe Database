@@ -1,0 +1,4 @@
+Create database on mysql with name ayoosh: "CREATE DATABASE ayoosh CHARACTER SET utf8 COLLATE utf8_general_ci;"
+
+Recover data, use the following command: "mysql --user root --password ayoosh < ayoosh16-05-2022.sql"
+
